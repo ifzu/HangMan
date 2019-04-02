@@ -1,2 +1,2 @@
 # HangMan
-Basic HangMan Game
+Basic HangMan Game written in C
